@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "BEV2Z98CJ8.com.rangam.sourceabled"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "BEV2Z98CJ8.com.rangam.sourceabled"
+        ],
+        "details": [
+            {
+                "appID": "BEV2Z98CJ8.com.rangam.sourceabled",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
